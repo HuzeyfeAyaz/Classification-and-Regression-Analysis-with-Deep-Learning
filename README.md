@@ -2,4 +2,4 @@
 In this repository, 
 
 * Famous `MNIST` dataset has been used for training sequential model with densely connected layers.
-* Regression Analysis examined on the Boston Housing dataset.
+* Detailed Regression Analysis is observed on the Boston Housing dataset.
